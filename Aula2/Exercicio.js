@@ -1,9 +1,9 @@
-//Você é responsável pela venda de ingressos para uma viagem de férias de ônibus. O ônibus tem 50
-//lugares disponíveis, e cada ingresso custa R$ 100,00. Você precisa criar um programa que:
-//1. Mostre o número total de lugares disponíveis no início.
-//2. Calcule quantos lugares restam após vender 10 ingressos.
-//3. Calcule o total arrecadado com a venda desses 10 ingressos.
-//4. Exiba os resultados no terminal.
+/*Você é responsável pela venda de ingressos para uma viagem de férias de ônibus. O ônibus tem 50
+lugares disponíveis, e cada ingresso custa R$ 100,00. Você precisa criar um programa que:
+1. Mostre o número total de lugares disponíveis no início.
+2. Calcule quantos lugares restam após vender 10 ingressos.
+3. Calcule o total arrecadado com a venda desses 10 ingressos.
+4. Exiba os resultados no terminal.*/
 
 let acentosTotal = 50
 let acentosVendidos = 10
