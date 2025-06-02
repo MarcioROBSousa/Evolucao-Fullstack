@@ -1,33 +1,27 @@
-   
-    const horarioAtual = 9
-    const horarioSolicitado = 12.01;
-    const horarioInicio = 9;
-    const horarioTermino = 18;
-    const horarioInicioAlmoco = 12;
-    const horarioFimAlmoco = 13;
+const horarioAtual = 9;
+const horarioSolicitado = 10;
+const horarioInicio = 9;
+const horarioTermino = 18;
+const horarioInicioAlmoco = 12;
+const horarioFimAlmoco = 13;
 
-function verificarDisponibilidade (horarioAtual, horarioSolicitado) {
-        // verifica se horario solicitado está dentro do horário comercial e no futuro
-
-    if (horarioSolicitado >= horarioAtual && horarioSolicitado >= horarioInicio && horarioSolicitado <= horarioTermino) {
+function verificarDisponibilidade(horarioAtual, horarioSolicitado) {
+    // Verificar se está no horário de almoço
+    if (horarioSolicitado >= horarioInicioAlmoco && horarioSolicitado < horarioFimAlmoco) {
+        return "Horário de almoço";
+    }
+    // Verificar se está dentro do horário comercial e no futuro
+    else if (horarioSolicitado >= horarioAtual && horarioSolicitado >= horarioInicio && horarioSolicitado <= horarioTermino) {
         return `Partida agendada para as ${horarioSolicitado} horas`;
     }
-    else if (horarioSolicitado >= horarioInicioAlmoco && horarioSolicitado && horarioSolicitado < horarioFimAlmoco) {
-        return "Horario de almoço";
-    }
-        else {
-        return "Não é possível agendar para este horário. Tente entre 9 e 18."
+    else {
+        return "Não é possível agendar para este horário. Tente entre 9 e 18.";
     }
 }
 
-
-
-//Chamando a função e exibindo o resultado
-
-const resultado = verificarDisponibilidade (horarioAtual, horarioSolicitado)
-
-console.log (resultado);
-
+// Chamando a função e exibindo o resultado
+const resultado = verificarDisponibilidade(horarioAtual, horarioSolicitado);
+console.log(resultado);
 
 
 //segundo código
