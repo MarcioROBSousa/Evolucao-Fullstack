@@ -24,7 +24,7 @@
 ☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).
 ☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.
 
-📚 Habilidades práticas que estou desenvolvendo até aqui:
+📚 **Habilidades práticas que estou desenvolvendo até aqui:**
 
 ☑ Pensar logicamente.
 ☑ Resolver problemas práticos.
