@@ -20,9 +20,9 @@
 
 ---
 **Horario**<br>
-☑ Criar uma função que executa uma tarefa (verificar o melhor horário para corrida).
-☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).
-☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.
+☑ Criar uma função que executa uma tarefa (verificar o melhor horário para corrida).<br>
+☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).<br>
+☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.<br>
 
 ---
 📚 **Habilidades práticas que estou desenvolvendo até aqui:**<br>
