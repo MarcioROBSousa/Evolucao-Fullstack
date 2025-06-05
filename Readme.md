@@ -29,4 +29,6 @@
 ☑ Resolver problemas práticos.<br>
 ☑ Automatizar tomadas de decisão (ex.: aceitar ou não uma corrida com base no horário).<br>
 ☑ Escrever código mais organizado e funcional.<br>
+☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.<br>
+
 
