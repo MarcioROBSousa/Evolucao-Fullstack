@@ -22,7 +22,6 @@
 **Horario**<br>
 ☑ Criar uma função que executa uma tarefa (verificar o melhor horário para corrida).<br>
 ☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).<br>
-☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.<br>
 
 ---
 📚 **Habilidades práticas que estou desenvolvendo até aqui:**<br>
@@ -30,3 +29,4 @@
 ☑ Resolver problemas práticos.<br>
 ☑ Automatizar tomadas de decisão (ex.: aceitar ou não uma corrida com base no horário).<br>
 ☑ Escrever código mais organizado e funcional.<br>
+
