@@ -24,6 +24,7 @@
 ☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).<br>
 
 ---
+---
 📚 **Habilidades práticas que estou desenvolvendo até aqui:**<br>
 ☑ Pensar logicamente.<br>
 ☑ Resolver problemas práticos.<br>
