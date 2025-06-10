@@ -7,19 +7,19 @@
 ☑ Saída no console (console.log)<br>
 
 ---
-**Funções**<br>
+**Funções** 📝<br>
 ☑ Começando a aprender sobre **Function**<br>
 ☑ Operações Matemáticas<br>
 ☑ Lógica de Programação<br>
 
 ---
-**Return**<br>
+**Return** 📝<br>
 ☑ Aprendendo sobre operadores lógicos<br>
 ☑ Reforçando as Estruturas de decisão (if, else if, else)<br>
 ☑ Retorno de valores (Return)<br>
 
 ---
-**Lógica**<br>
+**Lógica**📝<br>
 ☑ Criando uma função que executa uma tarefa.<br>
 ☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).<br>
 ☑ Fazer verificações (condições).<br>
@@ -28,7 +28,7 @@
 
 ---
 ---
-📚 **Habilidades práticas que estou desenvolvendo até aqui:**<br>
+📚 **Habilidades práticas que estou desenvolvendo até aqui:** 📝<br>
 ☑ Pensar logicamente.<br>
 ☑ Resolver problemas práticos.<br>
 ☑ Automatizar tomadas de decisão (ex.: aceitar ou não uma corrida com base no horário).<br>
