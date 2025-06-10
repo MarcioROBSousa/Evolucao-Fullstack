@@ -28,7 +28,7 @@
 
 ---
 ---
-📚 **Habilidades práticas que estou desenvolvendo até aqui:** 📝<br>
+📚 **Habilidades práticas que estou desenvolvendo até aqui:** 📖🧩<br>
 ☑ Pensar logicamente.<br>
 ☑ Resolver problemas práticos.<br>
 ☑ Automatizar tomadas de decisão (ex.: aceitar ou não uma corrida com base no horário).<br>
