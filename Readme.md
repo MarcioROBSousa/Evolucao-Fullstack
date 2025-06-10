@@ -1,4 +1,4 @@
-**Aula 1 e Aula 2**<br>
+ **Aula 1 e Aula 2** 📝<br>
 ☑ Aqui inicia minhas primeiras aulas rumo ao Fullstack.<br>
 ☑ Cria um objeto Date, que guarda a data e a hora atual do sistema<br>
 ☑ Usa o método .getHours() do objeto Date para obter a hora atual, no formato de 0 a 23<br>
