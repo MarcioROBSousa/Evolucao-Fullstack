@@ -2,7 +2,7 @@ const arroz = 30.00;
 const feijao = 10.00;
 const fuba = 7.20;
 const leite = 6.33;
-const valorNaCarteira = 46.00
+const valorNaCarteira = 56.00
 
 function compraMercado (arroz, feijao, fuba, leite) {
     return (arroz + feijao + fuba + leite);
