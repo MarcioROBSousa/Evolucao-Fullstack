@@ -23,7 +23,7 @@
 ☑ Criando uma função que executa uma tarefa.<br>
 ☑ Entender que funções podem ou não retornar valores e que podem também apenas executar comandos (como console.log).<br>
 ☑ Fazer verificações (condições).<br>
-☑ Usando template strings com crases ` e ${variável} para interpolar valores nas mensagens.
+☑ Usando template strings com crases ` e ${variável} para interpolar valores nas mensagens.<br>
 ☑ Controlar o fluxo do programa com base no resultado.
 
 ---
