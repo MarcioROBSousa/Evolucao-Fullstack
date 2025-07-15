@@ -27,7 +27,7 @@
 ☑ Controlar o fluxo do programa com base no resultado.
 
 ---
-**Página teste**📝<br>
+**HTML_CSS**📝<br>
 ☑ Estrutura básica de um site.<br>
 ☑ Separação de conteúdo e estilo.<br>
 ☑ Tags semânticas:.<br>
