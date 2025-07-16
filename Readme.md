@@ -30,9 +30,16 @@
 **HTML_CSS**📝<br>
 ☑ Estrutura básica de um site.<br>
 ☑ Separação de conteúdo e estilo.<br>
-☑ Tags semânticas:.<br>
+☑ Tags semânticas.<br>
 ☑ Uso de Flexbox, Responsividade.<br>
 
+---
+**Uso_Prompt**📝<br>
+☑ Usar ***prompt*** para capturar dados do usuário e uso do ***alert*** para mostrar mensagens rápidas ao usuário.<br>
+☑ Uso de verificação de entrada para evitar erros (usuário digitar letras ou deixar vazio)..<br>
+☑ Usar ***isNaN()*** para verificar se o valor digitado realmente é um número.<br>
+☑ Lógica de par ou ímpar.<br>
+☑ Manipulação do ***DOM*** <ins>document.getElementById().textContent</ins> para mostrar resultados na tela.<br>
 
 
 ---
@@ -44,5 +51,7 @@
 ☑ Escrever código mais organizado e funcional.<br>
 ☑ Corrigir e otimizar o raciocínio, melhorando tanto a lógica quanto a clareza do código.<br>
 ☑ Boas práticas de desenvolvimento como: Organização e identação do código, comentários claros no CSS...<br>
+☑ Estrutura básica de um site (HTML semântico).<br>
+☑ Flexbox e responsividade para layouts que se adaptam a diferentes telas.<br>
 
 
