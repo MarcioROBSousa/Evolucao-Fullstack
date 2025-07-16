@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirmação simples</title>
+</head>
+<body>
+    
+    <!--Exibe a caixa de confirmação-->
+    <script>
+        function perguntar() {
+        let resposta = confirm("você gosta de programação");
+
+        //-Verifica a resposta do usuário
+               if (resposta) {
+            alert("Que ótimo! Continue praticando");
+        }
+        else {
+            alert("Que pena!! Quem sabe um dia você goste.");     
+        }
+    }
+    </script>
+    
+</body>
+    <h1>Confirmação simples com Javascript</h1>
+    <button onclick="perguntar()">Escolher</button>
+   
+</html>
